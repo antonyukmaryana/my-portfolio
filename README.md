@@ -10,7 +10,8 @@
 _This page contains two sections - 1)information about my myself (my background,
   hobbies and interests) and 2)projects I created during my first week at Epicodus. Totally there are 9 projects with Github links provided. In order to open a link,
   your computer is needed to have any browser (IE, Chrome, Firefox etc) installed.   
-  Projects demonstrate the usage of HTML, CSS and Bootstrap._
+  Projects demonstrate the usage of HTML, CSS and Bootstrap.
+  You can visit my page here  https://antonyukmaryana.github.io/my-portfolio/._
 
 ## Setup/Installation Requirements
 
