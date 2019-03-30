@@ -1,19 +1,21 @@
-# _My-portfolio_
+# _ My-portfolio_
 
-#### _The page contains my background, hobbies and interests, and projects I have accomplished so far.     3/22/2019_
+#### _The page contains my background, hobbies and interests, and projects I have
+ accomplished so far.     3/22/2019_
 
 #### By _**Maryana Antonyuk**_
 
 ## Description
 
-This page contains two sections - 1)information about my myself (my background,
+_This page contains two sections - 1)information about my myself (my background,
   hobbies and interests) and 2)projects I created during my first week at Epicodus. Totally there are 9 projects with Github links provided. In order to open a link,
   your computer is needed to have any browser (IE, Chrome, Firefox etc) installed.   
   Projects demonstrate the usage of HTML, CSS and Bootstrap.
+  You can visit my page here  https://antonyukmaryana.github.io/my-portfolio/._
 
 ## Setup/Installation Requirements
 
-* Any Internet browser(IE, Chrome, Firefox etc) is needed to be installed.
+* _Any Internet browser(IE, Chrome, Firefox etc) is needed to be installed._
 
 ## Support and contact details
 
@@ -22,7 +24,7 @@ I would be most interested to hear from you. Feel free to contribute._
 
 ## Technologies Used
 
-_HTML, CSS, Bootstrap._
+_ HTML, CSS, Bootstrap._
 
 ### License
 
