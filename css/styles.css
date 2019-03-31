@@ -2,3 +2,15 @@ body {
   font-family: sans-serif;
   background-color: #35ba7d;
 }
+.col-md-12 {
+  margin: 10px;
+  border: 5px green;
+  padding: 10px;
+  background-color: yellowgreen;
+}
+img {
+  float: right;
+}
+.jumbotron {
+background-color: yellowgreen;
+}
